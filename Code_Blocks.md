@@ -9,7 +9,7 @@ message:
 # Code_Blocks
 
 ## Linux
-
+https://linux265.com/course/linux-commands.html
 df -hl 容量查询
 ps -aux 进程查询
 nvidia-smi 显卡查询
