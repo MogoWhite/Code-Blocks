@@ -16,6 +16,9 @@ nvidia-smi 显卡查询
 cat /proc/cpuinfo  cpu 信息
 free -m 内存
 top 内存 cpu
+du -sh ./  容量
+echo $[$(cat /sys/class/thermal/thermal_zone0/temp)/1000]°
+cat /proc/acpi/thermal_zone/TZS0/temperature
 
 ## Conda
 
