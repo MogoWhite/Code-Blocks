@@ -8,6 +8,10 @@ message:
 
 # Code_Blocks
 
+
+
+CUDA_VISIBLE_DEVICES=2 python main.py
+
 ## Linux
 https://linux265.com/course/linux-commands.html
 df -hl 容量查询
