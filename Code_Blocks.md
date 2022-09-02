@@ -32,7 +32,7 @@ chmod +x $MINICONDA_INSTALLER_SCRIPT
 
 conda install --channel defaults conda python=3.6 --yes
 conda update --channel defaults --all --yes
-
+conda init
 1. 获取版本号/帮助
 
 获取版本号 `conda -V`
