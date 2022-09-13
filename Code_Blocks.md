@@ -24,6 +24,9 @@ du -sh ./  容量
 echo $[$(cat /sys/class/thermal/thermal_zone0/temp)/1000]°
 cat /proc/acpi/thermal_zone/TZS0/temperature
 tmux
+
+
+
 ## Conda
 
 colab python 版本

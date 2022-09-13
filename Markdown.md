@@ -239,3 +239,27 @@ st->op->cond
 cond(yes)->e
 cond(no)->op
 ```
+
+conda install -c conda-forge h5py==2.9.0
+conda install -c conda-forge pandas==0.25.0
+conda install -c conda-forge matplotlib==3.1.1
+conda install -c conda-forge scipy==1.3.1
+conda install -c conda-forge argunparse==0.1.2
+conda install -c conda-forge librosa==0.7.0
+conda install -c conda-forge joblib==0.14.0
+conda install -c conda-forge transformers==2.5.1
+
+conda install -c conda-forge numpy==1.17.3
+
+conda install -c conda-forge gensim==3.8.0
+
+conda install -c conda-forge prettytable==0.7.2
+
+conda install -c conda-forge nltk==3.4.5
+conda install -c conda-forge torch==1.5.0
+conda install -c conda-forge webrtcvad==2.0.10
+conda install -c conda-forge pytorch_pretrained_bert==0.6.2
+conda install -c conda-forge Jinja2==2.11.3
+conda install -c conda-forge tqdm==4.48.2
+conda install -c conda-forge PyYAML==5.3.1
+conda install -c conda-forge scikit_learn==0.23.2
