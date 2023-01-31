@@ -27,6 +27,7 @@ cat /proc/acpi/thermal_zone/TZS0/temperature
 tmux 
 tmux new -s name
 tmux attach -t 0
+移动方法 control c   [ ⬆️
 
 
 
