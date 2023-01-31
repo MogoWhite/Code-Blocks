@@ -13,6 +13,7 @@ message:
 CUDA_VISIBLE_DEVICES=2 python main.py
 
 ## Linux
+ kill 12345
 https://linux265.com/course/linux-commands.html
 df -hl 容量查询
 ps -aux 进程查询
@@ -23,7 +24,8 @@ top 内存 cpu
 du -sh ./  容量
 echo $[$(cat /sys/class/thermal/thermal_zone0/temp)/1000]°
 cat /proc/acpi/thermal_zone/TZS0/temperature
-tmux
+tmux 
+tmux new -s name
 
 
 
