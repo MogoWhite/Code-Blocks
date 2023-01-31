@@ -28,6 +28,7 @@ tmux
 tmux new -s name
 tmux attach -t 0
 移动方法 control c   [ ⬆️
+ ls -l |grep  "^-" | wc -l 查看文件数量ß
 
 
 
