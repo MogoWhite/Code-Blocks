@@ -26,6 +26,7 @@ echo $[$(cat /sys/class/thermal/thermal_zone0/temp)/1000]°
 cat /proc/acpi/thermal_zone/TZS0/temperature
 tmux 
 tmux new -s name
+tmux attach -t 0
 
 
 
