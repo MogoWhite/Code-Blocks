@@ -1,6 +1,4 @@
 
-
-
 .Archive/
 .markeditor/
 !.metion/
@@ -21,3 +19,5 @@ Thumbs.db*
 /__wechat.json
 /*.sqlite3
 .db/
+
+_images_cache/
